@@ -1,15 +1,18 @@
+#import packages
 import csv
 import pandas as pd
 import numpy as np
 import json
 from collections import defaultdict
 
+#define a file reader for future use
 def readJson(f):
     for l in open(f):
         yield eval(l)
 
+#split anonymous-msweb.data into item.txt (item table)
+#and user_item.txt (user-item relation table)
 items = []
-
 for l in open("anonymous-msweb.data"):
     if l.startswith("A"):
         m,n,p,q,i = l.strip().split(',')
