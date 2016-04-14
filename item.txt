@@ -1,0 +1,295 @@
+,0,1,2
+0,1287,International AutoRoute,/autoroute
+1,1288,library,/library
+2,1289,Master Chef Product Information,/masterchef
+3,1297,Central America,/centroam
+4,1215,For Developers Only Info,/developer
+5,1279,Multimedia Golf,/msgolf
+6,1239,Microsoft Consulting,/msconsult
+7,1282,home,/home
+8,1251,Reference Support,/referencesupport
+9,1121,Microsoft Magazine,/magazine
+10,1083,MS Access Support,/msaccesssupport
+11,1145,Visual Fox Pro Support,/vfoxprosupport
+12,1276,Visual Test Support,/vtestsupport
+13,1200,Benelux Region,/benelux
+14,1259,controls,/controls
+15,1155,Sidewalk,/sidewalk
+16,1092,Visual FoxPro,/vfoxpro
+17,1004,Microsoft.com Search,/search
+18,1057,MS PowerPoint News,/powerpoint
+19,1140,Netherlands (Holland),/netherlands
+20,1198,Picture It,/pictureit
+21,1147,Microsoft Financial Forum,/msft
+22,1005,Norway,/norge
+23,1026,Internet Site Construction for Developers,/sitebuilder
+24,1119,Corporation Information,/corpinfo
+25,1216,Virtual Reality Markup Language,/vrml
+26,1218,MS Publisher Support,/publishersupport
+27,1205,Hardware Supprt,/hardwaresupport
+28,1269,Customer Guides,/business
+29,1031,MS Office,/msoffice
+30,1003,Knowledge Base,/kb
+31,1238,Excel Development,/exceldev
+32,1118,SQL Server,/sql
+33,1242,MS Garden,/msgarden
+34,1171,MS Merchant,/merchant
+35,1175,MS Project Support,/msprojectsupport
+36,1021,Visual C,/visualc
+37,1222,MS Office News,/msofc
+38,1284,partner,/partner
+39,1294,Bookshelf,/bookshelf
+40,1053,Jakarta,/visualj
+41,1293,Encarta,/encarta
+42,1167,Windows Hardware Testing,/hwtest
+43,1202,Advanced Technology,/advtech
+44,1234,Office Free Stuff News,/off97cat
+45,1054,Exchange,/exchange
+46,1262,Chile,/chile
+47,1074,Windows NT Workstation,/ntworkstation
+48,1027,Internet Development,/intdev
+49,1061,promo,/promo
+50,1236,Developing for Global Markets,/globaldev
+51,1212,World Wide Offices,/worldwide
+52,1204,MS Schedule+,/msscheduleplus
+53,1196,ie40,/ie40
+54,1188,Korea,/korea
+55,1228,Visual Test,/vtest
+56,1078,NT Server Support,/ntserversupport
+57,1008,Free Downloads,/msdownload
+58,1052,MS Word News,/word
+59,1091,Windows Hardware Development,/hwdev
+60,1280,MS Interactive Music Control,/music
+61,1247,Wine Guide,/wineguide
+62,1064,MS Site Builder Workshop,/activeplatform
+63,1065,Java Strategy and Info,/java
+64,1133,FrontPage Support,/frontpagesupport
+65,1102,Microsoft Home Essentials,/homeessentials
+66,1132,MS Money Support,/msmoneysupport
+67,1240,Thailand,/thailand
+68,1225,Anti Piracy Information,/piracy
+69,1130,IT Technical Information,/syspro
+70,1157,Windows 32 bit developer,/win32dev
+71,1058,SP Referral (ART),/referral
+72,1076,NT Workstation Support,/ntwkssupport
+73,1163,Open Type,/opentype
+74,1187,ODBC Development,/odbc
+75,1152,Russia,/rus
+76,1139,MS in K-12 Education,/k-12
+77,1223,Finland,/finland
+78,1001,Support Desktop,/support
+79,1043,Connecting Small Business,/smallbiz
+80,1165,Poland,/poland
+81,1194,China,/china
+82,1138,Developer Magazine,/mind
+83,1158,Interactive Media Technologies,/imedia
+84,1094,Microsoft Home,/mshome
+85,1055,MSHome Kids Stuff,/kids
+86,1277,NetShow for PowerPoint,/stream
+87,1143,Site Builder Workshop,/workshoop
+88,1068,VBScript Development,/vbscript
+89,1229,Uruguay,/uruguay
+90,1177,Master Marketing Calendar,/events
+91,1014,Office Free Stuff,/officefreestuff
+92,1019,MS PowerPoint,/mspowerpoint
+93,1122,Microsoft User Group Program,/mindshare
+94,1041,Developer Workshop,/workshop
+95,1033,MS Store Logo Merchandise,/logostore
+96,1233,vbscripts,/vbscripts
+97,1211,SMSMGT Support,/smsmgmtsupport
+98,1199,feedback,/feedback
+99,1024,Internet Information Server,/iis
+100,1179,Colombia,/colombia
+101,1067,FrontPage,/frontpage
+102,1181,Kids Support,/kidssupport
+103,1174,New Zealand,/nz
+104,1162,IIS Support,/infoservsupport
+105,1046,IE Support,/iesupport
+106,1197,SQL Support,/sqlsupport
+107,1231,Windows NT Developer Support,/win32devsupport
+108,1141,Europe,/europe
+109,1120,Switching from Competitive Products,/switch
+110,1112,Canada,/canada
+111,1142,South Africa,/southafrica
+112,1250,Middle East,/middleeast
+113,1214,MS Financial Services,/finserv
+114,1190,Repository,/repository
+115,1098,For Developers Only,/devonly
+116,1263,Educational Services & Programs,/services
+117,1049,Support Network Program Information,/supportnet
+118,1073,Taiwan,/taiwan
+119,1166,Mexico,/mexico
+120,1226,MS Schedule+ Support,/msschedplussupport
+121,1184,MS Excel Support,/msexcelsupport
+122,1025,Web Site Builder's Gallery,/gallery
+123,1160,Visual C Support,/visualcsupport
+124,1156,Powered by BackOffice,/powered
+125,1268,javascript,/javascript
+126,1220,Mac Office Support,/macofficesupport
+127,1060,MS Word,/msword
+128,1203,Denmark,/danmark
+129,1176,Java Script Development,/jscript
+130,1168,Sales Information (infobase),/salesinfo
+131,1066,Music Producer,/musicproducer
+132,1128,MS Solutions Framework,/msf
+133,1275,security.,/security.
+134,1136,WorldWide Offices - US Districts,/usa
+135,1146,Microsoft Solution Providers,/msp
+136,1237,Developer Days,/devdays
+137,1081,Access Development,/accessdev
+138,1016,MS Excel,/excel
+139,1069,Windows CE,/windowsce
+140,1148,Channel Resources,/channel_resources
+141,1161,Works Support,/workssupport
+142,1013,Visual Basic Support,/vbasicsupport
+143,1116,Switzerland,/switzerland
+144,1093,VBA Development,/vba
+145,1249,Fortran Support,/fortransupport
+146,1095,Product Catalog,/catalog
+147,1023,Spain,/spain
+148,1192,Visual J++ Support,/visualjsupport
+149,1080,Brazil,/brasil
+150,1050,Macintosh Office,/macoffice
+151,1255,Message Queue Server,/msmq
+152,1273,mdn,/mdn
+153,1206,Volume Purchasing Options,/select
+154,1230,Mail Support,/mailsupport
+155,1172,Belgium,/belgium
+156,1011,MS Office Development,/officedev
+157,1009,Windows Family of OSs,/windows
+158,1096,Microsoft Press,/mspress
+159,1235,MS Training Evaluation,/onlineeval
+160,1070,ActiveX Technology Development,/activex
+161,1154,MS Project,/project
+162,1099,Executive Computing,/cio
+163,1186,Job Listings for Pre-Grads,/college
+164,1291,news,/news
+165,1256,Solutions in Action,/sia
+166,1270,developr,/developr
+167,1232,SiteBuilder Network Specs & Standards,/standards
+168,1159,Transaction Server,/transaction
+169,1035,Windows95 Support,/windowssupport
+170,1164,Systems Management Server,/smsmgmt
+171,1077,MS Office Support,/msofficesupport
+172,1295,Training,/train_cert
+173,1056,sports,/sports
+174,1006,misc,/misc
+175,1272,softlib,/softlib
+176,1123,Germany,/germany
+177,1151,MS PowerPoint Support,/mspowerpointsupport
+178,1103,MS Works,/works
+179,1243,MS Usability Group,/usability
+180,1244,Developer Newswire,/devwire
+181,1260,Exchange Trial,/trial
+182,1258,Peru,/peru
+183,1208,Israel,/israel
+184,1106,Czech Republic,/cze
+185,1124,Industry Marketing Information (Vertical),/industry
+186,1114,Service Advantage,/servad
+187,1012,Outlook Development,/outlookdev
+188,1045,NetMeeting,/netmeeting
+189,1082,MS Access,/access
+190,1261,MS's Complete Do It Yourself Guide,/diyguide
+191,1137,About Microsoft ,/mscorp
+192,1059,Sweden,/sverige
+193,1037,Windows 95,/windows95
+194,1227,Argentina,/argentina
+195,1281,IntelliMouse,/intellimouse
+196,1134,BackOffice,/backoffice
+197,1044,Developer Media Development,/mediadev
+198,1028,OLE Development,/oledev
+199,1248,Softimage ,/softimage
+200,1085,Exchange Support,/exchangesupport
+201,1131,MS Money Information,/moneyzone
+202,1079,Australia,/australia
+203,1048,MS Publisher,/publisher
+204,1042,Visual Studio,/vstudio
+205,1075,Job Openings,/jobs
+206,1201,MS Hardware,/hardware
+207,1105,France,/france
+208,1153,Venezuela,/venezuela
+209,1292,MS North Africa,/northafrica
+210,1015,Excel,/msexcel
+211,1290,Activate the Internet Conference,/devmovies
+212,1017,Products ,/products
+213,1010,Visual Basic,/vbasic
+214,1126,Media Manager,/mediamanager
+215,1144,For Developers Only News,/devnews
+216,1191,Management,/management
+217,1002,End User Produced View,/athome
+218,1213,Corporate Customers,/corporate_solutions
+219,1084,UK,/uk
+220,1178,msdownload.,/msdownload.
+221,1036,Corporate Desktop Evaluation,/organizations
+222,1257,Professional Developers Series,/devvideos
+223,1180,Slovenija,/slovenija
+224,1246,Developer Media Games,/gamesdev
+225,1088,OutLook,/outlook
+226,1117,Sidewinder,/sidewinder
+227,1097,Latin America Region,/latam
+228,1266,Licenses and Piracy,/licenses
+229,1072,Visual InterDev,/vinterdev
+230,1169,MS Project,/msproject
+231,1107,Slovakia,/slovakia
+232,1089,Office Reference,/officereference
+233,1038,SiteBuilder Network Membership,/sbnmember
+234,1224,Authorized Technical Education Center Program,/atec
+235,1086,OEM,/oem
+236,1108,MS TeamManager,/teammanager
+237,1007,International IE content,/ie_intl
+238,1252,Community Affairs,/giving
+239,1283,Cinemainia,/cinemania
+240,1127,NetShow,/netshow
+241,1189,Internet News,/internet
+242,1110,Mastering Series,/mastering
+243,1090,Games Support,/gamessupport
+244,1109,TechNet (World Wide Web Edition),/technet
+245,1040,MS Office Info,/office
+246,1150,Internet Information Server News,/infoserv
+247,1195,Portugal,/portugal
+248,1111,Visual Source Safe,/ssafe
+249,1274,Professional Developer Conference,/pdc
+250,1267,Caribbean,/caribbean
+251,1113,Internet Security Framework,/security
+252,1245,Open Financial Connectivity,/ofc
+253,1253,MS Word Development,/worddev
+254,1087,MS Proxy Server,/proxy
+255,1185,SNA Server,/sna
+256,1209,Turkey,/turkey
+257,1063,Intranet Strategy,/intranet
+258,1101,Microsoft OLE DB,/oledb
+259,1264,MS Partner Web,/se_partners
+260,1032,Games,/games
+261,1173,Microsoft OnLine Institute,/moli
+262,1051,MS Schedule+ News,/scheduleplus
+263,1278,MS in Higer Education,/hed
+264,1062,MS Access News,/msaccess
+265,1020,Developer Network,/msdn
+266,1104,Hong Kong,/hk
+267,1071,N. American Automap,/automap
+268,1000,regwiz,/regwiz
+269,1135,MS Word Support,/mswordsupport
+270,1207,Internet Control Pack ,/icp
+271,1217,Ireland,/ireland
+272,1254,ie3,/ie3
+273,1022,Typography Site,/truetype
+274,1183,Italy,/italy
+275,1170,Microsoft Mail,/mail
+276,1241,India,/india
+277,1149,Advanced Data Connector,/adc
+278,1029,Clip Gallery Live,/clipgallerylive
+279,1221,Microsoft TV Program Information,/mstv
+280,1115,Hungary,/hun
+281,1125,ImageComposer,/imagecomposer
+282,1039,Internet Service Providers,/isp
+283,1034,Internet Explorer,/ie
+284,1265,Source Safe Support,/ssafesupport
+285,1271,mdsn,/mdsn
+286,1129,ActiveX Data Objects,/ado
+287,1018,isapi,/isapi
+288,1193,Office Developer Support,/offdevsupport
+289,1219,Corporate Advertising Content,/ads
+290,1030,Windows NT Server,/ntserver
+291,1182,Fortran,/fortran
+292,1100,MS in Education,/education
+293,1210,SNA Support,/snasupport
