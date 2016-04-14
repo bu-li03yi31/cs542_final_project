@@ -1,4 +1,5 @@
 #import packages
+#Collaborator: Yiteng Xu, Changlei Shi, ChenCheng Wang, Yi Li
 import csv
 import pandas as pd
 import numpy as np
